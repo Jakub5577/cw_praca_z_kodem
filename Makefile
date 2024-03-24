@@ -3,4 +3,4 @@ install:
 run:
 	python3 -m flask run
 check:
-	python -m pylint app.py
+	python3 -m pylint app.py
